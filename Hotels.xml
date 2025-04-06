@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.2">
+    <Name>Hotel 2</Name>
+    <Phone>123-456-7802</Phone>
+    <Address NearestAirport="Airport 2">
+      <Number>102</Number>
+      <Street>Main St</Street>
+      <City>City2</City>
+      <State>ST</State>
+      <Zip>90002</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.3">
+    <Name>Hotel 3</Name>
+    <Phone>123-456-7803</Phone>
+    <Address>
+      <Number>103</Number>
+      <Street>Main St</Street>
+      <City>City3</City>
+      <State>ST</State>
+      <Zip>90003</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.4">
+    <Name>Hotel 4</Name>
+    <Phone>123-456-7804</Phone>
+    <Address NearestAirport="Airport 4">
+      <Number>104</Number>
+      <Street>Main St</Street>
+      <City>City4</City>
+      <State>ST</State>
+      <Zip>90004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.5">
+    <Name>Hotel 5</Name>
+    <Phone>123-456-7805</Phone>
+    <Address>
+      <Number>105</Number>
+      <Street>Main St</Street>
+      <City>City5</City>
+      <State>ST</State>
+      <Zip>90005</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.6">
+    <Name>Hotel 6</Name>
+    <Phone>123-456-7806</Phone>
+    <Address NearestAirport="Airport 6">
+      <Number>106</Number>
+      <Street>Main St</Street>
+      <City>City6</City>
+      <State>ST</State>
+      <Zip>90006</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.7">
+    <Name>Hotel 7</Name>
+    <Phone>123-456-7807</Phone>
+    <Address>
+      <Number>107</Number>
+      <Street>Main St</Street>
+      <City>City7</City>
+      <State>ST</State>
+      <Zip>90007</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Hotel 8</Name>
+    <Phone>123-456-7808</Phone>
+    <Address NearestAirport="Airport 8">
+      <Number>108</Number>
+      <Street>Main St</Street>
+      <City>City8</City>
+      <State>ST</State>
+      <Zip>90008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Hotel 9</Name>
+    <Phone>123-456-7809</Phone>
+    <Address>
+      <Number>109</Number>
+      <Street>Main St</Street>
+      <City>City9</City>
+      <State>ST</State>
+      <Zip>90009</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Hotel 10</Name>
+    <Phone>123-456-7810</Phone>
+    <Address NearestAirport="Airport 10">
+      <Number>110</Number>
+      <Street>Main St</Street>
+      <City>City10</City>
+      <State>ST</State>
+      <Zip>90010</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>

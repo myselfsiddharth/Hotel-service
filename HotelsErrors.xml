@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Habor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hotel With Missing Attribute</Name>
+    <Phone>123-456-7890</Phone>
+    <Address>
+      <Number>12</Number>
+      <Street>Main St</Street>
+      <City>City</City>
+      <State>ST</State>
+      <Zip>90001</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.5">
+    <Name>Hotel Missing Phone</Name>
+    <Address>
+      <Number>13</Number>
+      <Street>Main St</Street>
+      <City>City</City>
+      <State>ST</State>
+      <Zip>90002</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Broken Address</Name>
+    <Phone>111-111-1111</Phone>
+    <Address>
+      <Number>14</Number>
+      <Street>Main St</Street>
+      <City>City</City>
+      <State>ST</State>
+      <!-- Missing closing tag for Address -->
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>Hotel Duplicate Name</Name>
+    <Name>Another Name</Name>
+    <Phone>222-222-2222</Phone>
+    <Address>
+      <Number>15</Number>
+      <Street>Main St</Street>
+      <City>City</City>
+      <State>ST</State>
+      <Zip>90003</Zip>
+    </Address>
+  </Hotel>
+</Hotel>

@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>4809688885</Phone>
     <Phone>8009378461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -15,7 +15,7 @@
   <Hotel>
     <Name>City Inn</Name>
     <Phone>6021234567</Phone>
-    <Address NearestAirport="Phoenix Airport">
+    <Address NearstAirport="Phoenix Airport">
       <Number>501</Number>
       <Street>Main Ave</Street>
       <City>Phoenix</City>

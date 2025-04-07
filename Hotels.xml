@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <Hotel _Rating="4.2">
+  <Hotel Rating="4">
     <Name>Westin</Name>
-    <Phone>480-968-8885</Phone>
-    <Phone>800-937-8461</Phone>
-    <Address _NearestAirport="Sky Habor">
+    <Phone>4809688885</Phone>
+    <Phone>8009378461</Phone>
+    <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -12,163 +12,15 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="3.5">
-    <Name>Hotel Indigo</Name>
-    <Phone>123-456-7891</Phone>
-    <Address>
-      <Number>101</Number>
-      <Street>1st Ave</Street>
+  <Hotel>
+    <Name>City Inn</Name>
+    <Phone>6021234567</Phone>
+    <Address NearestAirport="Phoenix Airport">
+      <Number>501</Number>
+      <Street>Main Ave</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85001</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="4.0">
-    <Name>Marriott</Name>
-    <Phone>123-456-7892</Phone>
-    <Phone>321-654-9870</Phone>
-    <Address _NearestAirport="Phoenix Airport">
-      <Number>202</Number>
-      <Street>2nd Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85002</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Budget Inn</Name>
-    <Phone>123-456-7893</Phone>
-    <Address>
-      <Number>303</Number>
-      <Street>3rd Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85003</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="4.8">
-    <Name>Sunset Inn</Name>
-    <Phone>123-456-7800</Phone>
-    <Phone>123-456-7809</Phone>
-    
-    <Address _NearestAirport="Airport 1">
-      <Number>100</Number>
-      <Street>Main St</Street>
-      <City>City0</City>
-      <State>ST</State>
-      <Zip>90000</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Mountain View</Name>
-    <Phone>123-456-7810</Phone>
-    
-    <Address>
-      <Number>101</Number>
-      <Street>Broadway</Street>
-      <City>City1</City>
-      <State>ST</State>
-      <Zip>90001</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="4.7">
-    <Name>City Stay</Name>
-    <Phone>123-456-7820</Phone>
-    <Phone>123-456-7829</Phone>
-    
-    <Address>
-      <Number>102</Number>
-      <Street>5th Ave</Street>
-      <City>City2</City>
-      <State>ST</State>
-      <Zip>90002</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Ocean Breeze</Name>
-    <Phone>123-456-7830</Phone>
-    
-    <Address _NearestAirport="Airport 4">
-      <Number>103</Number>
-      <Street>Ocean Dr</Street>
-      <City>City3</City>
-      <State>ST</State>
-      <Zip>90003</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="3.9">
-    <Name>Grand Heritage</Name>
-    <Phone>123-456-7840</Phone>
-    <Phone>123-456-7849</Phone>
-    
-    <Address>
-      <Number>104</Number>
-      <Street>Maple Rd</Street>
-      <City>City4</City>
-      <State>ST</State>
-      <Zip>90004</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Comfort Suites</Name>
-    <Phone>123-456-7850</Phone>
-    
-    <Address>
-      <Number>105</Number>
-      <Street>Lakeview Blvd</Street>
-      <City>City5</City>
-      <State>ST</State>
-      <Zip>90005</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="3.4">
-    <Name>Downtown Hub</Name>
-    <Phone>123-456-7860</Phone>
-    <Phone>123-456-7869</Phone>
-    
-    <Address _NearestAirport="Airport 7">
-      <Number>106</Number>
-      <Street>Cactus Ln</Street>
-      <City>City6</City>
-      <State>ST</State>
-      <Zip>90006</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Skyline Lodge</Name>
-    <Phone>123-456-7870</Phone>
-    
-    <Address>
-      <Number>107</Number>
-      <Street>Sunrise Pkwy</Street>
-      <City>City7</City>
-      <State>ST</State>
-      <Zip>90007</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="4.3">
-    <Name>Palm Tree Resort</Name>
-    <Phone>123-456-7880</Phone>
-    <Phone>123-456-7889</Phone>
-    
-    <Address>
-      <Number>108</Number>
-      <Street>Elm St</Street>
-      <City>City8</City>
-      <State>ST</State>
-      <Zip>90008</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Eco Stay</Name>
-    <Phone>123-456-7890</Phone>
-    
-    <Address _NearestAirport="Airport 10">
-      <Number>109</Number>
-      <Street>University Dr</Street>
-      <City>City9</City>
-      <State>ST</State>
-      <Zip>90009</Zip>
     </Address>
   </Hotel>
 </Hotels>
